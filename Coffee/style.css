@@ -595,9 +595,6 @@ form button {
     cursor: pointer;
 }
 
-::placeholder {
-    /* padding: -1px 10px; */
-}
 
 footer {
     background-color: var(--primary-color);
@@ -718,7 +715,6 @@ footer {
         justify-content: flex-start;
     }
 
-    .btn a {}
 
     .btn1 {
         padding: 12px 26px;
@@ -792,10 +788,6 @@ footer {
         border-radius: 50%;
         width: 350px;
         height: 350px;
-    }
-
-    #menu {
-        /* padding-top: 100px; */
     }
 
     .menu-images {
@@ -888,10 +880,6 @@ footer {
         gap: 1px;
     }
 
-    .dots {
-        /* margin-bottom: 50px; */
-    }
-
     #gallery {
         padding: 20px 80px;
         padding-bottom: 60px;
@@ -975,9 +963,5 @@ footer {
         flex-direction: row;
         justify-content: space-around;
         align-items: center;
-    }
-
-    .social-icons2 {
-        /* display: flex; */
     }
 }
